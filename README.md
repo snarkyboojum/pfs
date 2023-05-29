@@ -24,11 +24,11 @@ _Snarkyboojum_.
 
 ## Course Outline
 
-Week 1 - What is a computer program and what does a computer do with it?<br />
-Week 2 - Writing your first computer program in Python 3<br />
-Week 3 - Let's learn programming<br />
-Week 4 - Retrieving and storing data<br />
-Week 5 - Visualising data and interpreting it<br />
-Week 6 - TBD<br />
+Module 1 - What is a computer program and what does a computer do with it?<br />
+Module 2 - Writing your first computer program in Python 3<br />
+Module 3 - Let's learn programming<br />
+Module 4 - Retrieving and storing data<br />
+Module 5 - Visualising data and interpreting it<br />
+Module 6 - TBD<br />
 <br />
 
