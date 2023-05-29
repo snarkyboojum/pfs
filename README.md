@@ -15,7 +15,7 @@ After finishing Pfs, you will understand:
 * How to visualise that information and gain insights from it
 * How to interact with application programming interfaces (API)
 
-This course will take you approximately 50-60 hours to complete, which would take about 3-4 months if you spend 2 hours a week working through it.
+This course will take you approximately 30 hours to complete, which would take about 3-4 months if you spend 2 hours a week working through it.
 
 Good luck, and for any questions or improvements please send a pull request with your suggestions.
 
