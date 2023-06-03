@@ -24,6 +24,7 @@ _Snarkyboojum_.
 
 ## Course Outline
 
+Module 0 - Setting up your tools
 Module 1 - What is a computer program and what does a computer do with it?<br />
 Module 2 - Writing your first computer program in Python 3<br />
 Module 3 - Let's learn programming<br />
